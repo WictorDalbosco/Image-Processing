@@ -1,3 +1,3 @@
-# Image-Processing
+# Image-Processing (SCC - 0251)
 
-Reffering codes to the Image Processing Course (SCC0251) took in the first semester of 2023, given by Professor Moacir Ponti at University of São Paulo (USP)
+Assignments referring to the Image Processing Course took in the first semester of 2023, given by Professor Moacir Ponti at University of São Paulo (USP)
