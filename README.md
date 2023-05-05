@@ -8,4 +8,4 @@ Assignments referring to the Image Processing Course took in the first semester 
 
 - [Image Descriptors]()
 
--[Mathematical Morphology]()
+- [Mathematical Morphology]()
