@@ -5,3 +5,7 @@ Assignments referring to the Image Processing Course took in the first semester 
 -  [Enhancement and Superresolution](https://github.com/WictorDalbosco/Image-Processing/tree/main/Enhancement%20and%20Superresolution) 
 
 - [Fourier Transform](https://github.com/WictorDalbosco/Image-Processing/tree/main/Fourier%20Transform)
+
+- [Image Descriptors]()
+
+-[Mathematical Morphology]()
