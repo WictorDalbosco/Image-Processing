@@ -6,6 +6,6 @@ Assignments referring to the Image Processing Course took in the first semester 
 
 - [Fourier Transform](https://github.com/WictorDalbosco/Image-Processing/tree/main/Fourier%20Transform)
 
-- [Image Descriptors]()
+- [Image Descriptors](https://github.com/WictorDalbosco/Image-Processing/tree/main/Image%20Descriptor)
 
 - [Mathematical Morphology](https://github.com/WictorDalbosco/Image-Processing/tree/main/Mathematical%20morphology)
