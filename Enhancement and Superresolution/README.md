@@ -14,3 +14,7 @@ The techniques are:
 2. Gamma Correction: Implement the pixel-wise enhancement
 function
 
+After calculation of this filters, apply the superresolution and compare with the origina image.
+
+This task werer programmed using  python 3 and the libraries numpy and imageio
+
