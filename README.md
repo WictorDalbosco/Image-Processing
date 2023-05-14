@@ -9,3 +9,6 @@ Assignments referring to the Image Processing Course took in the first semester 
 - [Image Descriptors](https://github.com/WictorDalbosco/Image-Processing/tree/main/Image%20Descriptor)
 
 - [Mathematical Morphology](https://github.com/WictorDalbosco/Image-Processing/tree/main/Mathematical%20morphology)
+
+
+All of the codes and implementation were made with Python 3 and the libraries numpy, imageio and scipy.
